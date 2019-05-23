@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="62119" started-at="2019-05-23T07:59:20Z" finished-at="2019-05-23T08:00:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="62119" started-at="2019-05-23T07:59:20Z" finished-at="2019-05-23T08:00:22Z">
+      <class name="com.flipkart.login.OrderAnItem">
+        <test-method status="PASS" signature="login()[pri:0, instance:com.flipkart.login.OrderAnItem@42e26948]" name="login" is-config="true" duration-ms="13240" started-at="2019-05-23T07:59:20Z" finished-at="2019-05-23T07:59:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="addAnItemToCart()[pri:1, instance:com.flipkart.login.OrderAnItem@42e26948]" name="addAnItemToCart" duration-ms="47739" started-at="2019-05-23T07:59:33Z" finished-at="2019-05-23T08:00:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addAnItemToCart -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:com.flipkart.login.OrderAnItem@42e26948]" name="logout" is-config="true" duration-ms="1076" started-at="2019-05-23T08:00:21Z" finished-at="2019-05-23T08:00:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- com.flipkart.login.OrderAnItem -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
